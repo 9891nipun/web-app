@@ -1,0 +1,11 @@
+body{
+    background: yellow url("images/download.jpg");
+}
+
+.navbar{
+    border-radius:0;
+}
+
+.navbar-brand{
+    font-family: 'Satisfy',cursive;
+}
